@@ -10,6 +10,11 @@ var experiences=require("./experiences/experiences.js");
 var loisirs=require("./loisirs/loisirs.js");
 
 
+    expressLogging = require('express-logging'),
+    logger = require('logops');
+
+ app.use(expressLogging(logger));
+
 app.use("/contact",contact);
 app.use("/langues",langues);
 app.use("/formations",formations);

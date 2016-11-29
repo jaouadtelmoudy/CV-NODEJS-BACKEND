@@ -1,0 +1,12 @@
+{
+    "title":"Contact",
+    "descriptionGen":"J'ai bossé sur plusieurs projets",
+    "listeCont":{
+    "nom"      :"TELMOUDY",
+    "prenom"   :"Jaouad",
+    "telephone":"+33618058531",
+    "email"    :"jaouadtelmoudy@gmail.com",
+    "adresse"  :"51 rue de Tournai LILLE 59800",
+    "description":"description de la partie contact"
+  }
+}

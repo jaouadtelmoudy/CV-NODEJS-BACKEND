@@ -1,0 +1,14 @@
+{
+  "title":"Langues",
+  "descriptionGen":"Je parle deux langues et anglais Technique",
+  "listeLg":[{
+    "langue":"Français",
+    "niveau":"Lu Parlé Ecrit"
+  },{
+    "langue":"Anglais",
+    "niveau":"Langue Technique"
+  },{
+    "langue":"Arab",
+    "niveau":"Langue Maternelle"
+  }]
+}

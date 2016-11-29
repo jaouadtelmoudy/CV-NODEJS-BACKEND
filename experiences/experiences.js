@@ -1,7 +1,12 @@
 var express=require("express");
 var router=express();
 router.get("/",function(req,res){
-  res.json({experiences:"experiences"});
+  var config=require("../config/config.js");
+  config.lireFichier('./experiences/data.json').then(function(data){
+      res.json(JSON.parse(data));
+  },function(err){
+      if(err) throw err;
+  });
 });
 
 module.exports=router;

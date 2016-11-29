@@ -1,0 +1,14 @@
+{
+  "title":"Loisirs",
+  "descriptionGen":"J'ai plusieurs Loisirs",
+  "listeLoisir":[{
+    "libelle":"Sport",
+    "description":"description de la partie sport"
+  },{
+    "libelle":"Voyage",
+    "description":"description de la partie Voyage"
+  },{
+    "libelle":"Cinéma",
+    "description":"description de la partie Cinema"
+  }]
+}

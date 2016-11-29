@@ -1,0 +1,17 @@
+{
+  "title":"Experiences",
+  "descriptionGen":"j'ai 5 ans d'experiences",
+  "listeExp" :[{
+    "societe":"SOFA",
+    "poste"  :"Ingénieur Développeur",
+    "dateEn" :"2012-06-01",
+    "dateSor":"2016-06-01",
+    "description":"description Experiences SOFA"
+  },{
+    "societe":"BANC",
+    "poste"  :"Développeur web",
+    "dateEn" :"2008-07-01",
+    "dateSor":"2009-07-01",
+    "description":"description Experiences BANC"
+  }]
+}
